@@ -5,8 +5,7 @@ Houston, TX, USA | 📞 [281‑704‑8361](tel:2817048361) | ✉️ brajesh.rai.
 
 # **PROFESSIONAL EXPERIENCE**
 
-## **MLOps / LLMOps / DevOps / Platform Engineer — DotCom Team LLC**  
-*Houston, TX | Feb 2022 – Current*
+## **MLOps Platform Engineer — DotCom Team LLC** | *Houston, TX | Feb 2022 – Current*
 
 **ML Platform Engineering**
 - Spearheaded construction of an enterprise‑grade, fully automated ML platform — integrating **MLflow, Kubeflow, SageMaker, and KServe** — delivering reproducible training, model versioning, and GitOps‑driven deployments via ArgoCD with zero manual intervention across the full model lifecycle.
@@ -37,8 +36,7 @@ Houston, TX, USA | 📞 [281‑704‑8361](tel:2817048361) | ✉️ brajesh.rai.
 
 ---
 
-## **Lead DevOps Engineer — PROS Inc**  
-*Houston, TX | Jan 2020 – Feb 2022*
+## **Lead DevOps Engineer — PROS Inc** | *Houston, TX | Jan 2020 – Feb 2022*
 
 - Accelerated the company's **monolith‑to‑microservices transformation** by designing production‑grade AKS Cluster and standardizing deployments with Helm, enabling scalable, fault‑tolerant application delivery.
 - Improved release reliability and reduced deployment risk by replacing on‑prem Jenkins CD with **GitHub Actions + environment‑aware Helm pipelines**, ensuring consistent, predictable rollouts across all environments.
@@ -47,8 +45,7 @@ Houston, TX, USA | 📞 [281‑704‑8361](tel:2817048361) | ✉️ brajesh.rai.
 
 ---
 
-## **Senior DevOps Engineer — United Airlines**  
-*Houston, TX | Jun 2019 – Dec 2019*
+## **Senior DevOps Engineer — United Airlines** | *Houston, TX | Jun 2019 – Dec 2019*
 
 - Delivered production‑ready **AWS EKS infrastructure** by designing and provisioning container orchestration clusters using CloudFormation, establishing a scalable, repeatable foundation for cloud‑native workloads.
 - Accelerated team delivery velocity by **standardizing application deployments** with Docker and Helm, reducing deployment inconsistencies and enabling reliable, environment‑agnostic releases.
@@ -56,8 +53,7 @@ Houston, TX, USA | 📞 [281‑704‑8361](tel:2817048361) | ✉️ brajesh.rai.
 
 ---
 
-## **Senior DevOps Engineer — ABB Inc**  
-*Houston, TX | May 2016 – May 2019*
+## **Senior DevOps Engineer — ABB Inc** | *Houston, TX | May 2016 – May 2019*
 
 - Led ABB's **first large‑scale migration from VMware to AWS**, designing and provisioning foundational cloud infrastructure using CloudFormation and Code Pipeline, enabling the organization's transition from monolithic VMs to scalable cloud workloads.
 - Delivered **significant infrastructure cost reduction** by migrating legacy applications to AWS, placing monolithic workloads on EC2 and partnering with application teams to begin decomposing services into microservices.
