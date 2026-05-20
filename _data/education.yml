@@ -1,29 +1,28 @@
 - category: "Education"
   items:
-    - "MBA — General Management, Univ. of Houston–Victoria, TX"
-    - "B.Tech — Computer Science, West Bengal Univ. of Technology, India"
+    - "MBA — General Management, Univ. of Houston–Victoria"
+    - "B.Tech — Computer Science, West Bengal Univ. of Tech"
 
 - category: "AWS"
   items:
-    - "AWS Certified AI Practitioner"
-    - "AWS Certified Solutions Architect"
-    - "AWS Certified SysOps Administrator"
+    - "AI Practitioner"
+    - "Solutions Architect"
+    - "SysOps Administrator"
 
 - category: "Azure"
   items:
-    - "Azure AI Fundamentals"
-    - "Microsoft Certified Azure Administrator"
-    - "Microsoft Certified DevOps Engineer Expert"
+    - "AI Fundamentals"
+    - "Azure Administrator"
+    - "DevOps Engineer Expert"
 
 - category: "Kubernetes"
   items:
-    - "Certified Kubernetes Administrator (CKA)"
-    - "Certified Kubernetes Developer (CKAD)"
-    - "Certified Kubernetes Security Specialist (CKS)"
-    - "Certified Argo Project Associate (CAPA)"
+    - "CKA — Kubernetes Administrator"
+    - "CKAD — Kubernetes Developer"
+    - "CKS — Kubernetes Security"
+    - "CAPA — Argo Project Associate"
 
 - category: "DevOps & SRE"
   items:
-    - "SRE Practitioner"
-    - "SRE Foundation"
+    - "SRE Practitioner & Foundation"
     - "Terraform Certified Associate"
