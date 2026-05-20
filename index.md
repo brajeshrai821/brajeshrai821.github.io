@@ -11,26 +11,35 @@ Extensive experience designing, automating, and operating highly available, secu
 
 # **PROFESSIONAL EXPERIENCE**
 
-## **MLOps / LLMOps / DevOps / Platform Engineer — DotCom Team LLC **  
+## **MLOps / LLMOps / DevOps / Platform Engineer — DotCom Team LLC**  
 *Houston, TX | Feb 2022 – Current*
 
-- Built a fully automated ML platform using **MLflow, Kubeflow, SageMaker, KServe, GitHub Actions, Terraform, and Kubernetes**, enabling reproducible training, versioning, and GitOps‑driven deployments through ArgoCD with zero manual intervention.
-- Implemented real‑time monitoring and **automated retraining pipelines** using Prometheus/Grafana drift detection, MLflow model comparison, and CI‑triggered training workflows, ensuring only higher‑performing models are promoted and deployed, resulting in a self‑healing, continuously improving ML system.
-- Designed and implemented **SageMaker Domain access architecture** using Domain, User Profiles, and IAM execution roles, creating **clear role separation** for Data Scientists, ML Engineers, and MLOps Engineers.
-- Improved infrastructure reliability and auditability by creating **Terraform + Harness infra pipelines** with module versioning, policy checks, drift detection, and GitOps‑based promotion workflows.
-- Modernized application delivery using **ArgoCD GitOps**, Helm versioning, and **Blue/Green + Progressive Rollouts**, enabling zero‑downtime deployments across all environments.
-- Standardized deployments for **200+ application teams** by designing a single **Golden Helm Template** that unified all language stacks (Java, .NET, Python, Go, Node) and deployment patterns (Istio, Ingress, Blue/Green, Canary).
-- Eliminated fragmentation and reduced operational risk by replacing hundreds of custom team‑owned Helm charts with a **modular, policy‑driven master template** supporting compliance, tagging, logging, and metrics.
-- Enhanced real‑time visibility and proactive issue detection by building **Tier‑1 EKS dashboards** and **AIOps‑enabled anomaly detection** for both infrastructure and applications.
-- Strengthened compliance and operational control by embedding **checks, balances, and full audit trails** across CI/CD, infrastructure provisioning, and Kubernetes deployments.
-- Delivered major **AWS cost savings** by optimizing multi‑region EKS cluster sizing, workload placement, and resource governance for a platform serving 2,000+ internal users.
-- Ensured uninterrupted 24/7 operations for mission‑critical engineering tools (JFrog, CircleCI, SonarQube, ELK, Git Enterprise) through Blue/Green deployments, multi‑region redundancy, and automated failover.
-- Reduced deployment failures by **modernizing CircleCI pipelines** with canary releases, automated rollbacks, and strict promotion controls across Dev, QA, Pre‑Prod, and Prod.
-- Increased platform reliability by administering and upgrading all third‑party DevOps tools on EKS, including patching, security hardening, and capacity planning.
-- Designed and onboarded **chaos experiments** (pod failures, node failures, network latency, resource exhaustion, service disruption) to validate system behaviour under real‑world failure conditions.
-- Elevated organizational reliability maturity by making chaos engineering a **standardized, repeatable, and automated** part of the release lifecycle.
-- Built **enterprise‑grade, security‑hardened base images** for Java, Node.js, .NET, Go, and Python, supporting **three version tracks per language** to standardize application runtimes across the organization.
-- Increased adoption and governance by creating a **Grafana‑powered visibility dashboard** that scanned all GitHub repositories, identified non‑compliant Dockerfiles, and highlighted teams not using approved hardened images.
+**ML Platform Engineering**
+- Spearheaded construction of an enterprise‑grade, fully automated ML platform — integrating **MLflow, Kubeflow, SageMaker, and KServe** — delivering reproducible training, model versioning, and GitOps‑driven deployments via ArgoCD with zero manual intervention across the full model lifecycle.
+- Pioneered a **self‑healing, continuously improving ML system** by implementing real‑time drift detection (Prometheus/Grafana), automated retraining pipelines, and MLflow‑based model promotion gates — ensuring only statistically superior models reach production without human review.
+- Established enterprise security boundaries for ML workloads by architecting **SageMaker Domain access** with fine‑grained IAM execution roles and User Profile isolation, creating clear separation of privilege across Data Scientists, ML Engineers, and MLOps Engineers.
+
+**Platform Standardization & Scale**
+- Unified deployment practices across **200+ application teams** by engineering a single **Golden Helm Template** covering all language stacks (Java, .NET, Python, Go, Node) and deployment patterns (Istio, Ingress, Blue/Green, Canary) — eliminating hundreds of fragmented team‑owned charts.
+- Eliminated organizational deployment fragmentation and reduced operational risk at scale by replacing ad‑hoc Helm charts with a **modular, policy‑driven master template** embedding compliance enforcement, resource tagging, logging, and metrics out of the box.
+- Built and enforced organization‑wide runtime governance by creating **enterprise‑grade, security‑hardened base images** for Java, Node.js, .NET, Go, and Python — with a Grafana‑powered compliance dashboard scanning all GitHub repositories and surfacing non‑compliant Dockerfiles in real time.
+
+**Infrastructure Reliability & Cost**
+- Drove significant **AWS cost reduction** by optimizing multi‑region EKS cluster sizing, workload placement, and resource governance across a platform serving 2,000+ internal users — translating infrastructure efficiency into direct bottom‑line savings.
+- Fortified infrastructure reliability and audit posture by building **Terraform + Harness pipelines** with module versioning, policy checks, drift detection, and GitOps‑based promotion — creating an immutable, fully auditable infrastructure delivery chain.
+- Guaranteed 24/7 continuity for mission‑critical engineering toolchain (JFrog, CircleCI, SonarQube, ELK, Git Enterprise) through Blue/Green deployments, multi‑region redundancy, and automated failover — maintaining **zero unplanned downtime** for tools used by thousands of engineers.
+
+**Delivery Modernization**
+- Transformed application delivery velocity by adopting **ArgoCD GitOps** and Helm versioning with Blue/Green and progressive rollout strategies — enabling zero‑downtime deployments, instant rollbacks, and full deployment auditability across all environments.
+- Slashed deployment failure rates by **modernizing CircleCI pipelines** with canary releases, automated rollback triggers, and strict promotion controls enforced across Dev, QA, Pre‑Prod, and Prod — introducing production‑grade safety gates at every stage.
+
+**Observability & Compliance**
+- Elevated observability from reactive to predictive by building **Tier‑1 EKS dashboards** and deploying **AIOps‑enabled anomaly detection** across infrastructure and applications — enabling engineering teams to detect and resolve issues before customer impact.
+- Embedded compliance and governance into every layer of the delivery pipeline by implementing **checks, balances, and full audit trails** across CI/CD, infrastructure provisioning, and Kubernetes deployments — reducing audit preparation time and closing compliance gaps proactively.
+
+**Chaos Engineering & Resilience**
+- Institutionalized chaos engineering as a first‑class engineering discipline — designing and onboarding experiments covering pod failures, node failures, network latency, resource exhaustion, and service disruption to proactively validate system resilience under real‑world failure conditions.
+- Elevated organizational reliability maturity by transforming chaos engineering from ad‑hoc experiments into a **standardized, automated, and repeatable** part of the release lifecycle — shifting resilience validation left and reducing production incident exposure.
 
 ---
 

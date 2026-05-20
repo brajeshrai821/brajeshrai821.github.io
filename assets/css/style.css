@@ -235,6 +235,21 @@ section ul li strong {
   color: #1b2a4a;
 }
 
+/* Thematic sub-headings inside experience (bold paragraphs like **ML Platform Engineering**) */
+section p > strong:only-child {
+  display: inline-block;
+  margin-top: 16px;
+  margin-bottom: 2px;
+  font-size: 0.82em;
+  font-weight: 800;
+  color: #fff;
+  background: #2d6fb8;
+  padding: 2px 10px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
 /* Body paragraphs */
 section p {
   font-size: 0.93em;
