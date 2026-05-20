@@ -1,8 +1,3 @@
-- category: "Education"
-  items:
-    - "MBA — General Management, Univ. of Houston–Victoria"
-    - "B.Tech — Computer Science, West Bengal Univ. of Tech"
-
 - category: "AWS"
   items:
     - "AI Practitioner"
@@ -26,3 +21,8 @@
   items:
     - "SRE Practitioner & Foundation"
     - "Terraform Certified Associate"
+
+- category: "Education"
+  items:
+    - "MBA — General Management, Univ. of Houston–Victoria"
+    - "B.Tech — Computer Science, West Bengal Univ. of Tech"
