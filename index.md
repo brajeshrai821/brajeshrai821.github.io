@@ -3,7 +3,7 @@ Houston, TX, USA | 📞 [281‑704‑8361](tel:2817048361) | ✉️ brajesh.rai.
 
 ---
 
-## **MLOPS / LLMOPS ENGINEER**
+## **MLOPS / LLMOPS ENGINEER | PLATFORM ENGINEER**
 
 Extensive experience designing, automating, and operating highly available, secure, cloud‑native platforms across AWS and Azure. Proven expertise in Kubernetes (EKS, AKS), Terraform, GitOps, DevSecOps, and SRE best practices. Led enterprise‑scale migrations, standardized CI/CD platforms, reduced infrastructure costs by up to 50%, and improved platform reliability and developer productivity.
 
