@@ -11,7 +11,7 @@ Extensive experience designing, automating, and operating highly available, secu
 
 # **PROFESSIONAL EXPERIENCE**
 
-## **MLOps / LLMOps Engineer — United Airlines**  
+## **MLOps / LLMOps / DevOps / Platform Engineer — DotCom Team LLC **  
 *Houston, TX | Feb 2025 – Jan 2026*
 
 - Built a fully automated ML platform using **MLflow, Kubeflow, SageMaker, KServe, GitHub Actions, Terraform, and Kubernetes**, enabling reproducible training, versioning, and GitOps‑driven deployments through ArgoCD with zero manual intervention.
@@ -19,32 +19,14 @@ Extensive experience designing, automating, and operating highly available, secu
 - Designed and implemented **SageMaker Domain access architecture** using Domain, User Profiles, and IAM execution roles, creating **clear role separation** for Data Scientists, ML Engineers, and MLOps Engineers.
 - Improved infrastructure reliability and auditability by creating **Terraform + Harness infra pipelines** with module versioning, policy checks, drift detection, and GitOps‑based promotion workflows.
 - Modernized application delivery using **ArgoCD GitOps**, Helm versioning, and **Blue/Green + Progressive Rollouts**, enabling zero‑downtime deployments across all environments.
-
----
-
-## **Site Reliability Engineer — T‑Mobile**  
-*Houston, TX | Jan 2024 – Jan 2025*
-
 - Standardized deployments for **200+ application teams** by designing a single **Golden Helm Template** that unified all language stacks (Java, .NET, Python, Go, Node) and deployment patterns (Istio, Ingress, Blue/Green, Canary).
 - Eliminated fragmentation and reduced operational risk by replacing hundreds of custom team‑owned Helm charts with a **modular, policy‑driven master template** supporting compliance, tagging, logging, and metrics.
 - Enhanced real‑time visibility and proactive issue detection by building **Tier‑1 EKS dashboards** and **AIOps‑enabled anomaly detection** for both infrastructure and applications.
 - Strengthened compliance and operational control by embedding **checks, balances, and full audit trails** across CI/CD, infrastructure provisioning, and Kubernetes deployments.
-
----
-
-## **Senior DevOps Engineer — Coupang**  
-*Houston, TX | Feb 2023 – Jan 2024*
-
 - Delivered major **AWS cost savings** by optimizing multi‑region EKS cluster sizing, workload placement, and resource governance for a platform serving 2,000+ internal users.
 - Ensured uninterrupted 24/7 operations for mission‑critical engineering tools (JFrog, CircleCI, SonarQube, ELK, Git Enterprise) through Blue/Green deployments, multi‑region redundancy, and automated failover.
 - Reduced deployment failures by **modernizing CircleCI pipelines** with canary releases, automated rollbacks, and strict promotion controls across Dev, QA, Pre‑Prod, and Prod.
 - Increased platform reliability by administering and upgrading all third‑party DevOps tools on EKS, including patching, security hardening, and capacity planning.
-
----
-
-## **Site Reliability Engineer — Wayfair**  
-*Houston, TX | Feb 2022 – Feb 2023*
-
 - Designed and onboarded **chaos experiments** (pod failures, node failures, network latency, resource exhaustion, service disruption) to validate system behaviour under real‑world failure conditions.
 - Elevated organizational reliability maturity by making chaos engineering a **standardized, repeatable, and automated** part of the release lifecycle.
 - Built **enterprise‑grade, security‑hardened base images** for Java, Node.js, .NET, Go, and Python, supporting **three version tracks per language** to standardize application runtimes across the organization.
