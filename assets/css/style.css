@@ -26,14 +26,15 @@ html, body {
 
 /* ── Sidebar (header) ───────────────────────────────────── */
 header {
-  width: 230px;
-  min-width: 230px;
+  width: 270px;
+  min-width: 270px;
   background: #1b2a4a;
   color: #cdd8e8;
-  padding: 36px 20px 40px;
+  padding: 32px 20px 40px;
   position: sticky;
   top: 0;
-  min-height: 100vh;
+  height: 100vh;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -54,14 +55,7 @@ header h1 a {
   text-decoration: none;
 }
 
-header img {
-  width: 110px;
-  height: 110px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid #4a7fc1;
-  margin-bottom: 16px;
-}
+header img { display: none; }
 
 header p {
   font-size: 0.8em;
@@ -95,6 +89,62 @@ header .view a {
 
 header .view a:hover {
   background: #3567a8;
+}
+
+/* ── Sidebar skills block ───────────────────────────────── */
+.sidebar-skills,
+.sidebar-edu {
+  width: 100%;
+  margin-top: 24px;
+  text-align: left;
+  border-top: 1px solid rgba(255,255,255,0.12);
+  padding-top: 20px;
+}
+
+.skills-heading {
+  font-size: 0.72em;
+  font-weight: 800;
+  color: #7eb3e8;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+.skill-item {
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+.skill-cat {
+  display: block;
+  font-size: 0.72em;
+  font-weight: 700;
+  color: #7eb3e8;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 1px;
+}
+
+.skill-vals {
+  display: block;
+  font-size: 0.76em;
+  color: #b0c4d8;
+  line-height: 1.45;
+}
+
+.edu-group {
+  margin-bottom: 12px;
+}
+
+.edu-item {
+  display: block;
+  font-size: 0.76em;
+  color: #b0c4d8;
+  line-height: 1.5;
+  padding-left: 8px;
+  border-left: 2px solid rgba(126,179,232,0.3);
+  margin-top: 2px;
 }
 
 /* ── Main content (section) ─────────────────────────────── */

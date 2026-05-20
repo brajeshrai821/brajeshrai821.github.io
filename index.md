@@ -9,20 +9,6 @@ Extensive experience designing, automating, and operating highly available, secu
 
 ---
 
-## **CORE SKILLS**
-
-- **Cloud:** AWS, Azure  
-- **Kubernetes & Containers:** Docker, Helm, Istio, NGINX Ingress, Service Mesh  
-- **Infrastructure as Code:** Terraform, Terraform Enterprise, CloudFormation, Ansible, Chef  
-- **CI/CD & GitOps:** Argo, Harness, GitHub Actions, Jenkins, CircleCI, GitLab CI, TeamCity  
-- **DevSecOps:** SAST, DAST, SBOM, Trivy, Snyk, Wiz, IaC scanning  
-- **Observability:** Datadog, Dynatrace, Prometheus, Grafana, ELK, Loki, Graylog, Power BI  
-- **SRE:** HA/FT, DR, Incident Response, Postmortems, SLO/SLI/SLA  
-- **Automation:** Python, Bash  
-- **Databases:** MongoDB, Cassandra, Oracle, MySQL, Couchbase  
-
----
-
 # **PROFESSIONAL EXPERIENCE**
 
 ## **MLOps / LLMOps Engineer — United Airlines**  
@@ -100,21 +86,4 @@ Extensive experience designing, automating, and operating highly available, secu
 - Senior Software Engineer — Xilinx  
 - Software Engineer — Ness Technologies  
 
----
 
-# **EDUCATION & CERTIFICATIONS**
-
-- **MBA — General Management**, University of Houston–Victoria, TX  
-- **B.Tech — Computer Science**, West Bengal University of Technology, India  
-
-### **Certifications**
-- AWS Certified AI Practitioner  
-- AWS Solutions Architect  
-- AWS SysOps Administrator  
-- Azure AI Fundamentals  
-- Azure Administrator  
-- Microsoft DevOps Engineer Expert  
-- CKA, CKAD, CKS  
-- Certified Argo Project Associate (CAPA)  
-- SRE Practitioner, SRE Foundation  
-- Terraform Certified Associate  
