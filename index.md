@@ -12,7 +12,7 @@ Extensive experience designing, automating, and operating highly available, secu
 # **PROFESSIONAL EXPERIENCE**
 
 ## **MLOps / LLMOps / DevOps / Platform Engineer — DotCom Team LLC **  
-*Houston, TX | Feb 2025 – Jan 2026*
+*Houston, TX | Feb 2022 – Current*
 
 - Built a fully automated ML platform using **MLflow, Kubeflow, SageMaker, KServe, GitHub Actions, Terraform, and Kubernetes**, enabling reproducible training, versioning, and GitOps‑driven deployments through ArgoCD with zero manual intervention.
 - Implemented real‑time monitoring and **automated retraining pipelines** using Prometheus/Grafana drift detection, MLflow model comparison, and CI‑triggered training workflows, ensuring only higher‑performing models are promoted and deployed, resulting in a self‑healing, continuously improving ML system.
