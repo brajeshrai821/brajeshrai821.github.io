@@ -14,68 +14,69 @@ Extensive experience designing, automating, and operating highly available, secu
 ## **MLOps / LLMOps Engineer — United Airlines**  
 *Houston, TX | Feb 2025 – Jan 2026*
 
-- Built a fully automated ML platform using MLflow, Kubeflow, SageMaker, KServe, GitHub Actions, Terraform, and Kubernetes.  
-- Implemented real‑time monitoring and automated retraining pipelines using Prometheus/Grafana drift detection and MLflow model comparison.  
-- Designed SageMaker Domain access architecture with IAM‑based role separation.  
-- Improved infrastructure reliability with Terraform + Harness pipelines including policy checks and drift detection.  
-- Modernized delivery using ArgoCD GitOps, Helm versioning, and Blue/Green + progressive rollouts.
+- Built a fully automated ML platform using **MLflow, Kubeflow, SageMaker, KServe, GitHub Actions, Terraform, and Kubernetes**, enabling reproducible training, versioning, and GitOps‑driven deployments through ArgoCD with zero manual intervention.
+- Implemented real‑time monitoring and **automated retraining pipelines** using Prometheus/Grafana drift detection, MLflow model comparison, and CI‑triggered training workflows, ensuring only higher‑performing models are promoted and deployed, resulting in a self‑healing, continuously improving ML system.
+- Designed and implemented **SageMaker Domain access architecture** using Domain, User Profiles, and IAM execution roles, creating **clear role separation** for Data Scientists, ML Engineers, and MLOps Engineers.
+- Improved infrastructure reliability and auditability by creating **Terraform + Harness infra pipelines** with module versioning, policy checks, drift detection, and GitOps‑based promotion workflows.
+- Modernized application delivery using **ArgoCD GitOps**, Helm versioning, and **Blue/Green + Progressive Rollouts**, enabling zero‑downtime deployments across all environments.
 
 ---
 
 ## **Site Reliability Engineer — T‑Mobile**  
 *Houston, TX | Jan 2024 – Jan 2025*
 
-- Standardized deployments for 200+ teams using a Golden Helm Template supporting all languages and deployment patterns.  
-- Eliminated fragmentation by replacing hundreds of custom Helm charts with a modular, policy‑driven master template.  
-- Built Tier‑1 EKS dashboards and AIOps‑enabled anomaly detection.  
-- Strengthened compliance with CI/CD and infra governance controls.
+- Standardized deployments for **200+ application teams** by designing a single **Golden Helm Template** that unified all language stacks (Java, .NET, Python, Go, Node) and deployment patterns (Istio, Ingress, Blue/Green, Canary).
+- Eliminated fragmentation and reduced operational risk by replacing hundreds of custom team‑owned Helm charts with a **modular, policy‑driven master template** supporting compliance, tagging, logging, and metrics.
+- Enhanced real‑time visibility and proactive issue detection by building **Tier‑1 EKS dashboards** and **AIOps‑enabled anomaly detection** for both infrastructure and applications.
+- Strengthened compliance and operational control by embedding **checks, balances, and full audit trails** across CI/CD, infrastructure provisioning, and Kubernetes deployments.
 
 ---
 
 ## **Senior DevOps Engineer — Coupang**  
 *Houston, TX | Feb 2023 – Jan 2024*
 
-- Delivered major AWS cost savings by optimizing multi‑region EKS clusters.  
-- Ensured 24/7 reliability for mission‑critical engineering tools (JFrog, CircleCI, SonarQube, ELK, Git Enterprise).  
-- Reduced deployment failures with canary releases and automated rollbacks.  
-- Upgraded and hardened all DevOps tools on EKS.
+- Delivered major **AWS cost savings** by optimizing multi‑region EKS cluster sizing, workload placement, and resource governance for a platform serving 2,000+ internal users.
+- Ensured uninterrupted 24/7 operations for mission‑critical engineering tools (JFrog, CircleCI, SonarQube, ELK, Git Enterprise) through Blue/Green deployments, multi‑region redundancy, and automated failover.
+- Reduced deployment failures by **modernizing CircleCI pipelines** with canary releases, automated rollbacks, and strict promotion controls across Dev, QA, Pre‑Prod, and Prod.
+- Increased platform reliability by administering and upgrading all third‑party DevOps tools on EKS, including patching, security hardening, and capacity planning.
 
 ---
 
 ## **Site Reliability Engineer — Wayfair**  
 *Houston, TX | Feb 2022 – Feb 2023*
 
-- Designed and automated chaos experiments (pod/node failures, latency, resource exhaustion).  
-- Built hardened base images for Java, Node.js, .NET, Go, Python with version governance.  
-- Created Grafana dashboards scanning GitHub repos for Dockerfile compliance.
+- Designed and onboarded **chaos experiments** (pod failures, node failures, network latency, resource exhaustion, service disruption) to validate system behaviour under real‑world failure conditions.
+- Elevated organizational reliability maturity by making chaos engineering a **standardized, repeatable, and automated** part of the release lifecycle.
+- Built **enterprise‑grade, security‑hardened base images** for Java, Node.js, .NET, Go, and Python, supporting **three version tracks per language** to standardize application runtimes across the organization.
+- Increased adoption and governance by creating a **Grafana‑powered visibility dashboard** that scanned all GitHub repositories, identified non‑compliant Dockerfiles, and highlighted teams not using approved hardened images.
 
 ---
 
 ## **Lead DevOps Engineer — PROS Inc**  
 *Houston, TX | Jan 2020 – Feb 2022*
 
-- Designed production‑grade AKS clusters and standardized deployments with Helm.  
-- Replaced on‑prem Jenkins CD with GitHub Actions + environment‑aware Helm pipelines.  
-- Containerized legacy Ansible/Python installers into automated workflows.  
-- Improved platform stability with proactive monitoring and RCA‑driven remediation.
+- Accelerated the company's **monolith‑to‑microservices transformation** by designing production‑grade AKS Cluster and standardizing deployments with Helm, enabling scalable, fault‑tolerant application delivery.
+- Improved release reliability and reduced deployment risk by replacing on‑prem Jenkins CD with **GitHub Actions + environment‑aware Helm pipelines**, ensuring consistent, predictable rollouts across all environments.
+- Reduced operational toil and eliminated legacy maintenance overhead by **containerizing Ansible/Python‑based installers**, converting fragile manual processes into automated, repeatable deployment workflows.
+- Strengthened platform stability through **proactive monitoring, alerting, and RCA‑driven remediation**, significantly reducing incident frequency and improving recovery time.
 
 ---
 
 ## **Senior DevOps Engineer — United Airlines**  
 *Houston, TX | Jun 2019 – Dec 2019*
 
-- Built AWS EKS infrastructure using CloudFormation.  
-- Standardized deployments with Docker and Helm.  
-- Automated CI/CD using CodePipeline and TeamCity.
+- Delivered production‑ready **AWS EKS infrastructure** by designing and provisioning container orchestration clusters using CloudFormation, establishing a scalable, repeatable foundation for cloud‑native workloads.
+- Accelerated team delivery velocity by **standardizing application deployments** with Docker and Helm, reducing deployment inconsistencies and enabling reliable, environment‑agnostic releases.
+- Eliminated manual release bottlenecks by **automating end‑to‑end CI/CD pipelines** using CodePipeline and TeamCity, significantly reducing time‑to‑production and human error across the delivery lifecycle.
 
 ---
 
 ## **Senior DevOps Engineer — ABB Inc**  
 *Houston, TX | May 2016 – May 2019*
 
-- Led ABB’s first large‑scale migration from VMware to AWS.  
-- Reduced infrastructure costs by migrating legacy apps to AWS.  
-- Built ELK, Prometheus, and Grafana stacks on autoscaling EC2.
+- Led ABB's **first large‑scale migration from VMware to AWS**, designing and provisioning foundational cloud infrastructure using CloudFormation and Code Pipeline, enabling the organization's transition from monolithic VMs to scalable cloud workloads.
+- Delivered **significant infrastructure cost reduction** by migrating legacy applications to AWS, placing monolithic workloads on EC2 and partnering with application teams to begin decomposing services into microservices.
+- Established the company's initial **observability stack** by deploying ELK, Prometheus, and Grafana on autoscaling EC2 nodes, providing centralized logging, metrics, and alerting for all migrated workloads.
 
 ---
 

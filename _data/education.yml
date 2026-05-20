@@ -6,18 +6,24 @@
 - category: "AWS"
   items:
     - "AWS Certified AI Practitioner"
-    - "AWS Solutions Architect"
-    - "AWS SysOps Administrator"
+    - "AWS Certified Solutions Architect"
+    - "AWS Certified SysOps Administrator"
 
 - category: "Azure"
   items:
     - "Azure AI Fundamentals"
-    - "Azure Administrator"
-    - "Microsoft DevOps Engineer Expert"
+    - "Microsoft Certified Azure Administrator"
+    - "Microsoft Certified DevOps Engineer Expert"
 
-- category: "Kubernetes & DevOps"
+- category: "Kubernetes"
   items:
-    - "CKA, CKAD, CKS"
+    - "Certified Kubernetes Administrator (CKA)"
+    - "Certified Kubernetes Developer (CKAD)"
+    - "Certified Kubernetes Security Specialist (CKS)"
     - "Certified Argo Project Associate (CAPA)"
+
+- category: "DevOps & SRE"
+  items:
+    - "SRE Practitioner"
+    - "SRE Foundation"
     - "Terraform Certified Associate"
-    - "SRE Practitioner, SRE Foundation"
